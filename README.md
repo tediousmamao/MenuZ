@@ -2,6 +2,10 @@
 
 🎇 A free script made to play games on roblox any way you choose.
 
+# ✨ Automatic updates
+
+🎮 The script automatically updates, you don't have to do anything, just play.
+
 ## Install
 
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/tediousmamao/MenuZ/main/menuz", true))()```
