@@ -9,7 +9,7 @@
 ## 🧨 Credits
 - peke
 - wlrd
-made by tedious#9064
+- made by tedious#9064
 
 ## Install
 
